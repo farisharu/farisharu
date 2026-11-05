@@ -1,6 +1,7 @@
 <h1 align="center">Faris</h1>
 <p align="center"><b>Game Lead Developer</b> · Unity / C# since 2018 · moving into game production<br>Surabaya, Indonesia</p>
 <p align="center">
+  <a href="https://farisharu.github.io/">Portfolio</a> ·
   <a href="https://farisharu.itch.io/">itch.io</a> ·
   <a href="https://www.linkedin.com/in/faris-putra">LinkedIn</a>
 </p>
@@ -16,6 +17,8 @@ I lead a small game team at Abersoft Technologies. I plan what we build, make mo
 | **Go Go Cat Shelter** (2025) | Game-jam duo: design and programming | [Play in browser](https://farisharu.itch.io/go-go-cat-shelter) |
 | **Monkey King: Legend of Heroes** (2025) | Lead game designer | [Get the game](https://monkey-king.onelink.me/TePF/MKstaWB) |
 | **Potion Permit** (2019) | AI framework and hand-written shaders | [Steam](https://store.steampowered.com/app/1337760/Potion_Permit/) |
+
+Every title I've worked on, with screenshots, is on my [portfolio](https://farisharu.github.io/).
 
 ### Tools
 
