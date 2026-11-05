@@ -1,4 +1,4 @@
-<h1 align="center">Faris Rasyadi Putra</h1>
+<h1 align="center">Faris</h1>
 <h3 align="center">Unity Developer 🎮</h3>
 
 <p align="center">
